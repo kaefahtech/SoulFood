@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER KAEFAH Technologies, LLC
+
 
 ENV PYTHONUNBUFFERED 1
 
